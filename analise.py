@@ -5,4 +5,4 @@ import pandas as pd
 df = pd.read_excel('taxigov_geral.xlsx')
 
 #mostrar as 5 primeiras linhas
-df.head() 
+df.head()
